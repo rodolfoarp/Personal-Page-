@@ -1,0 +1,25 @@
+/* Header */
+header .header-list{
+    display: block;
+    margin-left: 1rem;
+    align-self: center;
+}
+.header-nav__home,.header-nav__about{
+    display: none;
+}
+
+/* Footer */
+h1{
+    display: flex;
+    justify-content: center;
+}
+.footer-container{
+    flex-direction: column;
+}
+.footer-nav{
+    margin-bottom: 1rem;
+}
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+}
