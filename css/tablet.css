@@ -147,10 +147,12 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 15px;
 }
 .footer-media a{
     color: inherit;
     text-decoration: inherit;
+    display: flex;
 }
 hr{
     display: block;
