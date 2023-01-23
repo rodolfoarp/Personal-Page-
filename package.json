@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoarp/Personal-Page-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfoarp/Personal-Page-/issues"
+  },
+  "homepage": "https://github.com/rodolfoarp/Personal-Page-#readme",
+  "devDependencies": {
+    "react-router-dom": "^6.7.0"
+  }
+}
